@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-I have implemented various alogorithms pertaining to machine learning. Hope you find it helpful :)
+I have implemented various algorithms related to machine learning. Hope you find these mini projects helpful :)
